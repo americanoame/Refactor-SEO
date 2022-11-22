@@ -2,9 +2,9 @@
 
 
 ##  Project Description
-  For this project was gaven a started code for a markting website i made more excessable
-  by adding a sematic html elements. i also added alt attribute to my image html tags. finally 
-  i consaladeted the css class to refuce duplicated code.
+  For this project was gaven a started code for a marketing website i made more excessible
+  by adding a semantic html elements. i also added alt attribute to my image html tags. finally 
+  i consolidated the css class to reduce duplicated code.
 
 ## what language used
 
@@ -17,8 +17,7 @@
 
 
 ```
- its maketing website that helps to promote the company Heriseon throuth a seaching engin
- automonisation and social media marketing.
+ its marketing website that helps to promote the company Heriseon throuth search engine optimization and social media marketing.
 ```
 
 
